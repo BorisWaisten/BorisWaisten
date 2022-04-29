@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BorisWaisten
+- 🌱 I’m currently studying systems analyst, knowing the 5 pillars of object-oriented programming in Java.
+- I hope to make friends to learn about different codes and programs.
